@@ -15,7 +15,7 @@ A set of repositories enabling you to automate phoenixNAP's products such as Bar
 <p align="center">
   <a href="https://phoenixnap.com">Website</a> •
   <a href="https://developers.phoenixnap.com/">Developers Portal</a> •
-  <a href="http://phoenixnap.com/kb">Knowledge Base</a> •
+    <a href="http://phoenixnap.com/kb">Knowledge Base</a> •
   <a href="https://developers.phoenixnap.com/support">Support</a>
 </p>
 
@@ -23,13 +23,20 @@ A set of repositories enabling you to automate phoenixNAP's products such as Bar
 
 All GitHub actions are available at [https://github.com/phoenixnap-github-actions](https://github.com/phoenixnap-github-actions).
 
-## Executing GitHub Actions
+### Executing GitHub Actions
 
 GitHub Actions can be executed directly from the GitHub interface. Select the action that you would like to execute and add it to your GitHub workflow. 
 
 ## Bare Metal Cloud
 
 This section provides useful links and information on how to utilize the GitHub Actions for Bare Metal Cloud.
+
+<p align="left">
+  <a href="https://phoenixnap.com/bare-metal-cloud">Product Page</a> •
+  <a href="https://phoenixnap.com/bare-metal-cloud/instances/">Instance Pricing</a> •
+    <a href="https://www.youtube.com/watch?v=8TLsqgLDMN4&list=PLWcrQnFWd54WwkHM0oPpR1BrAhxlsy1Rc&ab_channel=PhoenixNAPGlobalITServices">YouTube Tutorials</a> •
+  <a href="https://developers.phoenixnap.com/docs/bmc/1/overview">API</a>
+</p>
 
 ### Requirements
 
@@ -62,18 +69,6 @@ Become part of the Bare Metal Cloud community to get updates on new features, he
 - Join the [official Slack channel](https://phoenixnap.slack.com)
 - Sign up for our [Developers Monthly newsletter](https://phoenixnap.com/developers-monthly-newsletter)
 
-## Additional Resources
-
-- [Product page](https://phoenixnap.com/bare-metal-cloud)
-- [Instance pricing](https://phoenixnap.com/bare-metal-cloud/instances)
-- [YouTube tutorials](https://www.youtube.com/watch?v=8TLsqgLDMN4&list=PLWcrQnFWd54WwkHM0oPpR1BrAhxlsy1Rc&ab_channel=PhoenixNAPGlobalITServices)
-- [Developers Portal](https://developers.phoenixnap.com)
-- [Knowledge Base](https://phoenixnap.com/kb)
-- [Blog](https:/phoenixnap.com/blog)
-
-## Documentation
-
-- [API documentation](https://developers.phoenixnap.com/docs/bmc/1/overview)
 
 ## Contact phoenixNAP
 
