@@ -9,37 +9,41 @@ Actions for automating BMC processes via GitHub
 </h1>
 
 <p align="center">
-A set of repositories enabling you to automate Bare Metal Cloud tasks using GitHub workflows.
+A set of repositories enabling you to automate phoenixNAP's products such as Bare Metal Cloud tasks using GitHub workflows.
 </p>
 
 <p align="center">
-  <a href="https://phoenixnap.com/bare-metal-cloud">Bare Metal Cloud</a> •
+  <a href="https://phoenixnap.com">Website</a> •
   <a href="https://developers.phoenixnap.com/">Developers Portal</a> •
   <a href="http://phoenixnap.com/kb">Knowledge Base</a> •
   <a href="https://developers.phoenixnap.com/support">Support</a>
 </p>
 
-## Requirements
-
-- [Bare Metal Cloud](https://bmc.phoenixnap.com) account
-- GitHub Account 
-- JavaScript
-
 ## Access Link
 
 All GitHub actions are available at [https://github.com/phoenixnap-github-actions](https://github.com/phoenixnap-github-actions).
-
-## Repositories
-
-* [Create Server BMC](https://github.com/phoenixnap-github-actions)
-* [Delete Server BMC](https://github.com/phoenixnap-github-actions/delete-server-bmc)
-* [Get Server BMC](https://github.com/phoenixnap-github-actions/get-server-bmc)
 
 ## Executing GitHub Actions
 
 GitHub Actions can be executed directly from the GitHub interface. Select the action that you would like to execute and add it to your GitHub workflow. 
 
-## Creating a Bare Metal Cloud account
+## Bare Metal Cloud
+
+This section provides useful links and information on how to utilize the GitHub Actions for Bare Metal Cloud.
+
+### Requirements
+
+- [Bare Metal Cloud](https://bmc.phoenixnap.com) account
+- GitHub Account 
+- JavaScript
+
+### Repositories
+
+* [Create Server BMC](https://github.com/phoenixnap-github-actions)
+* [Delete Server BMC](https://github.com/phoenixnap-github-actions/delete-server-bmc)
+* [Get Server BMC](https://github.com/phoenixnap-github-actions/get-server-bmc)
+
+### Creating a Bare Metal Cloud account
 
 1. Go to the [Bare Metal Cloud signup page](https://support.phoenixnap.com/wap-jpost3/bmcSignup).
 2. Follow the prompts to set up your account.
@@ -50,7 +54,7 @@ GitHub Actions can be executed directly from the GitHub interface. Select the ac
 
 :arrow_forward: **Video tutorial:** [Introduction to Bare Metal Cloud](https://www.youtube.com/watch?v=8TLsqgLDMN4)
 
-## Bare Metal Cloud community
+### Bare Metal Cloud community
 
 Become part of the Bare Metal Cloud community to get updates on new features, help us improve the platform, and engage with developers and other users.
 
@@ -58,7 +62,7 @@ Become part of the Bare Metal Cloud community to get updates on new features, he
 - Join the [official Slack channel](https://phoenixnap.slack.com)
 - Sign up for our [Developers Monthly newsletter](https://phoenixnap.com/developers-monthly-newsletter)
 
-### Resources
+## Additional Resources
 
 - [Product page](https://phoenixnap.com/bare-metal-cloud)
 - [Instance pricing](https://phoenixnap.com/bare-metal-cloud/instances)
@@ -67,11 +71,11 @@ Become part of the Bare Metal Cloud community to get updates on new features, he
 - [Knowledge Base](https://phoenixnap.com/kb)
 - [Blog](https:/phoenixnap.com/blog)
 
-### Documentation
+## Documentation
 
 - [API documentation](https://developers.phoenixnap.com/docs/bmc/1/overview)
 
-### Contact phoenixNAP
+## Contact phoenixNAP
 
 Get in touch with us if you have questions or need help with Bare Metal Cloud.
 
