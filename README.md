@@ -35,7 +35,7 @@ This section provides useful links and information on how to utilize the GitHub 
   <a href="https://phoenixnap.com/bare-metal-cloud">Product Page</a> •
   <a href="https://phoenixnap.com/bare-metal-cloud/instances/">Instance Pricing</a> •
     <a href="https://www.youtube.com/watch?v=8TLsqgLDMN4&list=PLWcrQnFWd54WwkHM0oPpR1BrAhxlsy1Rc&ab_channel=PhoenixNAPGlobalITServices">YouTube Tutorials</a> •
-  <a href="https://developers.phoenixnap.com/docs/bmc/1/overview">API</a>
+  <a href="https://developers.phoenixnap.com/apis">API</a>
 </p>
 
 ### Requirements
